@@ -40,3 +40,36 @@ D:\development\UnitTests\AspNetMvcWebApi\Bookmarks\bin\System.Web.WebPages.Razor
 D:\development\UnitTests\AspNetMvcWebApi\Bookmarks\obj\Debug\Bookmarks.dll
 D:\development\UnitTests\AspNetMvcWebApi\Bookmarks\obj\Debug\Bookmarks.pdb
 D:\development\UnitTests\AspNetMvcWebApi\Bookmarks\obj\Debug\Bookmarks.csprojResolveAssemblyReference.cache
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Bookmarks.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Bookmarks.pdb
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Net.Http.Formatting.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.Helpers.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.Http.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.Http.WebHost.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.Mvc.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.Razor.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.WebPages.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Ninject.pdb
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Ninject.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Ninject.Web.Common.pdb
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Ninject.Web.Common.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Ninject.Web.Mvc.pdb
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Ninject.Web.Mvc.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\EntityFramework.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Microsoft.Web.Infrastructure.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\Newtonsoft.Json.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Net.Http.Formatting.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.Helpers.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.Http.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.Http.WebHost.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.Mvc.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.Razor.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.WebPages.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET MVC + jQuery Project\bookmarks\obj\Debug\Bookmarks.csprojResolveAssemblyReference.cache
+D:\ASP.NET MVC + jQuery Project\bookmarks\obj\Debug\Bookmarks.dll
+D:\ASP.NET MVC + jQuery Project\bookmarks\obj\Debug\Bookmarks.pdb

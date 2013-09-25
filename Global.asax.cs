@@ -1,4 +1,6 @@
-﻿using System.Data.Entity;
+﻿using System.Configuration;
+using System.Data.Entity;
+using System.Data.Entity.Infrastructure;
 using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
@@ -15,7 +17,9 @@ namespace Bookmarks
     {
         protected void Application_Start()
         {
-            Database.SetInitializer(new BookmarkContextInitializer());
+            //Database.SetInitializer(new BookmarkContextInitializer());
+			Database.DefaultConnectionFactory = new SqlConnectionFactory(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString);
+			Database.SetInitializer(new BookmarkContextInitializer());
             
             AreaRegistration.RegisterAllAreas();
 
